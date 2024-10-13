@@ -60,3 +60,10 @@ h1 {
     padding: 0px;
     box-sizing: border-box;
  }
+ .titre1 {
+    font-size: 2em;
+    font-weight: bold;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+ }
